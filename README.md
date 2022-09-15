@@ -1,2 +1,2 @@
 # my App
-#install app and say problems to mi
+install app and say problems to mi
